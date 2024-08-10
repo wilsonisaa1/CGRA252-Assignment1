@@ -6,7 +6,7 @@
 ## CoinKnight
 
 
-Link to video (onedrive/vimeo/youtube/googledrive other video service) showing the prototype/game ( approx. 4-9 mins )
+Link to video(https://ln5.sync.com/dl/c1f40a550/uec2j9bp-efe2bbt5-5c96hdn4-gav39vmj)
 
 # Game Description
 You are a knight that is searching for gold. You have to avoid the slimey monsters in your path
